@@ -98,7 +98,7 @@ table {
     margin: 1em 0;
     padding: 1em 0;
     background-color: #fae9e9; /* Color suave para la tabla de comparaciones */
-    border-radius: 100px;
+    
     box-shadow: 0 0 10px rgba(182, 187, 195, 0.3); /* Sombra suave alrededor de la tabla de comparaciones */
     text-align: center;
     transition: background-color 0.3s;
